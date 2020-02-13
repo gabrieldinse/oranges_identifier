@@ -1,0 +1,1 @@
+{"color_range": {"min_h": 0, "max_h": 20, "min_s": 84, "max_s": 255, "min_v": 78, "max_v": 255}, "kernel_size": {"gaussian": 15, "opening": 17}, "frame_dimension_range": {"min_width": 0, "max_width": 600, "min_height": 136, "max_height": 359}, "capture_line": {"position": 354, "left_width": 140, "right_width": 150}}
